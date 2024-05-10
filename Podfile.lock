@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.8.1)
+  - IQKeyboardManagerSwift (7.0.0)
+  - SVProgressHUD (2.3.1):
+    - SVProgressHUD/Core (= 2.3.1)
+  - SVProgressHUD/Core (2.3.1)
+  - Toast-Swift (5.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - SVProgressHUD
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - SVProgressHUD
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  IQKeyboardManagerSwift: bd69f3a49f6ead9cb6ce17723cf0c6c9b948d83e
+  SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
+  Toast-Swift: dd369e68ee529f542c65bd0d0c6c50cd743cf6f2
+
+PODFILE CHECKSUM: 45240d4f5679b5e6ca156d575e01ee04f0a1096c
+
+COCOAPODS: 1.14.3
